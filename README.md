@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working with:
 #####   📱 Swift
-#####   🖥 React
+#####   🖥 React / Angular
 #####   🚢 Docker
 #####   ☁️ Google Cloud Platform
 #####   🐍 Python
