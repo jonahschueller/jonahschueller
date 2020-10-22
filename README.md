@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jonah 👋
 
+- 🔭 I’m currently working with:
+ - Swift
+ - React
+ - Docker
+ - Google Cloud Platform
+ - Python
+ 
 <!--
 **Bohne9/Bohne9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
