@@ -1,11 +1,11 @@
 ### Hi there, I'm Jonah 👋
 
-- 🔭 I’m currently working with:
- - Swift
- - React
- - Docker
- - Google Cloud Platform
- - Python
+🔭 I’m currently working with:
+ - <img src="https://github.com/Bohne9/Bohne9/blob/master/Swift-2-512.webp" width="30" height="30" alignment="center" />Swift
+ - <img src="https://github.com/Bohne9/Bohne9/blob/master/design%2Bdevelopment%2Bfacebook%2Bframework%2Bmobile%2Breact%2Bicon-1320165723839064798.png" width="30" height="30" alignment="center" />React
+ - <img src="https://github.com/Bohne9/Bohne9/blob/master/97_Docker_logo_logos-512.webp" width="30" height="30" alignment="center" /> Docker
+ - <img src="https://github.com/Bohne9/Bohne9/blob/master/kisspng-google-cloud-platform-cloud-computing-google-stora-google-cloud-platform-tombe-et-ce-sont-de-nombreu-5b7ccf56ae8850.0592802315349061987149.jpg" width="30" height="30" alignment="center" />Google Cloud Platform
+ - <img src="https://github.com/Bohne9/Bohne9/blob/master/python_18894.png" width="30" height="30" alignment="center" />Python
  
 <!--
 **Bohne9/Bohne9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
