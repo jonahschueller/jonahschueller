@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonah 👋
 
 #### 🔭 I’m currently working with:
-#####   📱 Swift
+#####   📱 Swift / SwiftUI
 #####   🖥 React / Angular
 #####   🐳 Docker
 #####   ☁️ Google Cloud Platform
