@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working with:
 #####   📱 Swift
 #####   🖥 React / Angular
-#####   🚢 Docker
+#####   🐳 Docker
 #####   ☁️ Google Cloud Platform
 #####   🐍 Python
 <!--
