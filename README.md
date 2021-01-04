@@ -1,22 +1,17 @@
-### Hi there, I'm Jonah 👋
+<h3 align="center">Hi there, I'm Jonah 👋 👨🏽‍💻</h3>
 
-#### 🔭 I’m currently working with:
-#####   📱 Swift / SwiftUI
-#####   🖥 React / NextJS
-#####   🐳 Docker
-#####   ☁️ Google Cloud Platform
-#####   🐍 Python
-<!--
-**Bohne9/Bohne9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
+<h4 align="center">Currently exploring the world of ☁️ cloud computing</h4>
 
-Here are some ideas to get you started:
+#### 🤓 Some technologies I work with:
+- **📱 Swift / SwiftUI**
+- **🖥 React / NextJS**
+- **🐳 Docker**
+- **☁️ Google Cloud Platform**
+- **🐍 Python**
+<h4 align="center">Find me in the web 🌎</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+- **Follow me on my [Instagram](https://www.instagram.com/jonah_schller/) 📷**
+- **Have a look at my [website](https://www.jschueller.de/) 🌐**
