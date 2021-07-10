@@ -6,4 +6,5 @@
 #### 📱 Swift / SwiftUI - 🖥 React / NextJS - ☁️ GCP / AWS
 ## Find me in the web 🌎
 
-#### Follow me on my <a href="https://www.instagram.com/jonah_schller/">Instagram</a> 📷
+##### Instagram 📷: <a href="https://www.instagram.com/jonah_schller/">jonah_schller</a>
+##### LinkedIn 🌐: <a href="linkedin.com/in/jonah-schüller-a561831ab/">Jonah Schüller</a>
