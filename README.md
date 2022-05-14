@@ -3,7 +3,9 @@
 ### Currently exploring the world of ☁️ cloud computing
 
 #### 🤓 Some technologies I work with:
-#### 📱 Swift / SwiftUI - 🖥 React / NextJS - ☁️ GCP / AWS
+
+🐳 Docker - 🖥 React - 🟦 Typescript - 🐍 Python - ☁️ GCP/AWS
+
 ## Find me in the web 🌎
 
 ##### Instagram 📷: <a href="https://www.instagram.com/jonah_schller/">jonah_schller</a>
