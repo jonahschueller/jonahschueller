@@ -1,10 +1,8 @@
 ## Hi there, I'm Jonah 👋 👨🏽‍💻
 
-### Currently exploring the world of ☁️ cloud computing
-
 #### 🤓 Some technologies I work with:
 
-🐳 Docker - 🖥 React - 🟦 Typescript - 🐍 Python - ☁️ GCP/AWS
+🖥 React - 🟦 Typescript - 🐍 Python 
 
 ## Find me in the web 🌎
 
